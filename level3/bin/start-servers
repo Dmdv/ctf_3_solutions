@@ -1,0 +1,3 @@
+#!/bin/bash
+
+env GOMAXPROCS=9 ./bin/indexer
